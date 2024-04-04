@@ -176,6 +176,22 @@ legend {
 	line-height: 1.5;
 }
 
+.about__link {
+	padding-left: 28px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	min-height: 20px;
+}
+
+.about__tel {
+	background-image: url(../img/phone.svg);
+	background-size: 12px 20px;
+}
+
+.about__mail {
+	background-image: url(../img/mail.svg);
+}
+
 .portfolio {}
 
 .job {}
