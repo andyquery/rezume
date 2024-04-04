@@ -169,7 +169,7 @@ legend {
 .about__title {
 	font-size: 22px;
 	margin-bottom: 15px;
-	/*text-transform: uppercase;*/
+	text-transform: uppercase;
 }
 
 .about__desc {
@@ -199,7 +199,7 @@ legend {
 .job__title {
 	font-size: 22px;
 	margin-bottom: 15px;
-	/*text-transform: uppercase;*/
+	text-transform: uppercase;
 }
 
 .job__list {}
